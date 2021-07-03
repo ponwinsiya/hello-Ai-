@@ -1,1 +1,3 @@
-# hello-Ai-
+# This program prints Hello, world!
+
+print('Hello, world!')
